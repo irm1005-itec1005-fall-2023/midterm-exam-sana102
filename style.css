@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to top, rgb(128, 88, 69) , rgb(252, 252, 240));
+  background-image: linear-gradient(to top, rgb(231, 114, 159) , rgb(252, 252, 240));
 }
 
 
@@ -15,7 +15,7 @@ body {
 }
 
 .price {
-  color: #522121;
+  color: #eba8c0;
   font-weight: bold;
   font-family:Arial, Helvetica, sans-serif ;
   font-size: 50px;
@@ -28,7 +28,7 @@ body {
   border: none;
   padding: 12px;
   color: white;
-  background-color: #391818;
+  background-color: #eba8c0;
   text-align: center;
   cursor: pointer;
   width: 70%;
@@ -37,7 +37,7 @@ body {
   margin-bottom: 2rem;
 }
 .drinks {
-  color:rgb(125, 87, 87);
+  color:#eba8c0;
   font-weight: lighter;
   position: inherit;
   font-size: 1rem;
@@ -52,12 +52,12 @@ body {
 .txt {
   margin: 1px 2px 0 3px;
   font-size: 0.9rem;
-  color:#391818;
+  color:#eba7cd;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .h1 {
-  color:#4f2f2f;
+  color:#eb8eb2;
 }
 
 .card button:hover {
